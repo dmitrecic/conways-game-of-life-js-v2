@@ -1,0 +1,23 @@
+body{
+    background: #eee;
+    color:#333;
+}
+
+#grid{
+    width:600px;
+    display:block;
+    margin-right: auto;
+    margin-left:auto;
+}
+
+#grid div {
+    width:3px;
+    height:3px;
+    display:block;
+    font-size: 7px;
+    float: left;
+}
+
+.alive {
+    background:#090;
+}
